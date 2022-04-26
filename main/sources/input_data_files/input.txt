@@ -1,0 +1,5 @@
+inclusion_index = 0
+changed_param = a //x0 y0 phi a h N a44 a45 a55 a1a2 (change both a with indexes 1,2 only!!!) ma44hi ma55hi ma45hi ma44low ma55low ma45low ( material) a44a55 (both a44 and a55 at once) x12 (second is negative) wedgea12 //three inclusions main on axe y=0 change a1=a2 eps=0.001 wedgeeps12 //change epsilon anglesand a essential and equal
+begin
+1
+end
